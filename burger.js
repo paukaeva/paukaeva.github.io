@@ -8,10 +8,10 @@ iconMenu.addEventListener('click', function (e) {
   menuBody.classList.toggle('active');
 });
 
-menuItems.forEach((item) => {
-  item.addEventListener('click', () => {
-    document.body.classList.remove('lock');
-    iconMenu.classList.remove('active');
-    menuBody.classList.remove('active');
-  })
-})
+// menuItems.forEach((item) => {
+//   item.addEventListener('click', () => {
+//     document.body.classList.remove('lock');
+//     iconMenu.classList.remove('active');
+//     menuBody.classList.remove('active');
+//   })
+// })

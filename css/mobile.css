@@ -137,7 +137,11 @@ h2 {
   height: inherit;
 }
 
-
+.header_subtitle {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: right;
+}
 
 /* ABOUT ME */
 .about_me_item {
