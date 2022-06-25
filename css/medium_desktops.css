@@ -1,0 +1,62 @@
+/* CONTAINERS */
+.container_970 {
+  max-width: 750px;
+}
+
+.container_500 {
+  max-width: 450px; 
+}
+
+
+
+/* SHARED STYLES */
+body {
+  font-size: 16px;
+  line-height: 19px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  line-height: 38px;
+}
+
+
+
+/* HEADER */
+.header_main_nav {
+  max-width: 750px;
+}
+
+.header_text_container {
+  margin-left: 2vw;
+}
+
+
+
+/* SKILLS */
+.skills_item {
+  max-width: 110px;
+  padding-top: 2vh;
+}
+
+
+
+/* FOOTER */
+.social_container {
+  max-width: 300px;
+}
+
+.social_item {
+  width: 47px;
+  height: 47px;
+}
+
+.btn {
+  height: 40px;
+  width: 160px;
+}
